@@ -25,6 +25,7 @@ class _PageProfilWisataFavoritState extends State<PageProfilWisataFavorit> {
           ),
           centerTitle: true,
           backgroundColor: Colors.white,
+          iconTheme: IconThemeData(color: Colors.black),
         ),
         body: Container(
           padding: EdgeInsets.symmetric(horizontal: 5),
